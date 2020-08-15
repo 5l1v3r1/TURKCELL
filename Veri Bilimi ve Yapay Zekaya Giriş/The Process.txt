@@ -1,0 +1,7 @@
+1) Getting the big data
+
+2) Preparing the data, removing or editing the necessary fields
+
+3) Modeling
+
+4) Deploying the model
